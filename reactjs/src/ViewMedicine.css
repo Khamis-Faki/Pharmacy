@@ -1,0 +1,20 @@
+.view-medicine-container {
+    padding: 20px;
+  }
+  
+  .view-medicine-table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .view-medicine-table th, .view-medicine-table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+  }
+  
+  .view-medicine-table th {
+    background-color: #f2f2f2;
+    text-align: left;
+  }
+  
+
